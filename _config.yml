@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: HideonBlack
+title: BlackColorful
 subtitle:
 description: Colorful Black
 author: John Doe
@@ -14,7 +14,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: 'https://hideonblack.github.io'
+url: 'https://blackcolorful.github.io'
 baseurl: '/'
 permalink: pretty
 
