@@ -4,17 +4,17 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 222
+title: 饼干黑客
 subtitle: 
 description: 
-author: 222
+author: 饼干Hack
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: 'https://zjy222.github.io'
+url: 'https://hackcookies.github.io'
 baseurl: '/'
 permalink: pretty
 
