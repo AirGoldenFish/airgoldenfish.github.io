@@ -1,7 +1,7 @@
 ---
 title: easy_xor
 date: 2021-4-2
-description: xor的简单操作，就是为了记录一下该怎么操作的
+description: xor的简单操作，记录一下基本流程
 category: 信息安全
 tags:
   - CTF
